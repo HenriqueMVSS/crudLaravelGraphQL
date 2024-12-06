@@ -6,8 +6,8 @@ Este projeto demonstra como criar um CRUD de projetos usando Laravel e GraphQL.
 
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
-   cd <nome-do-repositorio>
+   git clone https://github.com/HenriqueMVSS/crudLaravelGraphQL
+   cd crudLaravelGraphQL
    ```
 
 2. Instale as dependências:
